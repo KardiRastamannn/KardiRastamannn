@@ -1,16 +1,59 @@
-## Hi there 👋
+About me / Rólam
 
-<!--
-**KardiRastamannn/KardiRastamannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Adrián László Nagy</h1>
 
-Here are some ideas to get you started:
+### 💻 Full Stack PHP Developer – 5+ years of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 Experience in: custom booking systems, medical record management systems
+- 🔗 API integrations: travel platforms, EESZT (Hungarian healthcare), payment gateways, Foglaljorvost, DICOM protocols
+- 🛠️ Technologies: PHP (Laravel), MySQL, MSSQL, MongoDB, Twig, Docker, GitHub, JavaScript, HTML, CSS, jQuery
+- 🔧 Backend and frontend development, system administration, issue resolution
+- 🌍 Comfortable with remote work and client-specific development tasks
+
+---
+
+### 🔧 Notable Project
+
+#### 📰 [News](https://github.com/KardiRastamannn/News)
+News management portal built using a custom PHP MVC framework (for learning purposes)
+
+---
+
+### 📫 Contact
+- ✉️ Email: [nagy.adrian1997@gmail.com](mailto:nagy.adrian1997@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/](https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/)
+
+Thank you for checking out my profile! 🎯
+
+
+<h1 align="center">👋 Szia, Nagy Adrián László vagyok</h1>
+
+### 💻 Full Stack PHP Fejlesztő – 5+ év tapasztalat
+
+- 🧭 Tapasztalat: egyedi foglalási rendszerek, betegnyilvántartó rendszerek
+- 🔗 API integrációk: utazási szolgáltatók, EESZT, fizetési rendszerek, Foglaljorvost, DICOM
+- 🛠️ Technológiák: PHP (Laravel), MySQL, MSSQL, MongoDB, Twig, Docker, GitHub, JavaScript, HTML, CSS, jQuery
+- 🔧 Front- és backend fejlesztés, rendszerüzemeltetés, hibakezelés
+- 🌍 Távoli munkavégzésben és ügyfél-specifikus fejlesztésekben is rutinos vagyok
+
+---
+
+### 🔧 Főbb projektjeim
+
+#### 📰 [News](https://github.com/KardiRastamannn/News)
+Hírkezelő portál saját PHP MVC keretrendszerben gyakorlási céllal  
+---
+
+### 🚀 Karriercélok
+- Laravel/Symfony mélyebb ismerete és projektszintű alkalmazása
+- Tesztelés (PHPUnit, Pest)
+- Clean Architecture, SOLID, DDD szemlélet mélyítése
+- Frontend tudás fejlesztése (JS, Vue, React alapok)
+
+---
+
+### 📫 Elérhetőség
+- ✉️ Email: [nagy.adrian1997@gmail.com](mailto:nagy.adrian1997@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/](https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/)
+
+Köszönöm, hogy megnézted a profilomat! 🎯
