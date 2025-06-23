@@ -44,14 +44,6 @@ Thank you for checking out my profile! 🎯
 Hírkezelő portál saját PHP MVC keretrendszerben gyakorlási céllal  
 ---
 
-### 🚀 Karriercélok
-- Laravel/Symfony mélyebb ismerete és projektszintű alkalmazása
-- Tesztelés (PHPUnit, Pest)
-- Clean Architecture, SOLID, DDD szemlélet mélyítése
-- Frontend tudás fejlesztése (JS, Vue, React alapok)
-
----
-
 ### 📫 Elérhetőség
 - ✉️ Email: [nagy.adrian1997@gmail.com](mailto:nagy.adrian1997@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/](https://www.linkedin.com/in/adri%C3%A1n-nagy-294982362/)
